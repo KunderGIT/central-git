@@ -1,2 +1,3 @@
 hi!! wElcome to git.
 Lets go!!!
+Third line was added in Singapore Server!!
